@@ -1,7 +1,7 @@
-<h2>Olá, meu nome é Mirella</h2>
+<h2>Olá, meu nome é Mirella</h2
 
 
-- 😄 Pronomes: Ela/Dela
+                             
 - 🎓 Cursando o segundo período de Engenharia de Software
 - 🔎 Conhecimentos voltados para o desenvolvimento web e análise de dados
 
