@@ -2,8 +2,10 @@
 
 
                              
+- 💻 Formada em Tecnologia da Informação (Técnico)
 - 🎓 Cursando o segundo período de Engenharia de Software
-- 🔎 Conhecimentos voltados para o desenvolvimento web e análise de dados
+- 💡 Conhecimentos voltados para o desenvolvimento web e banco de dados
+- 🔎 Buscando oportunidades para crescer na área e participação em projetos inovadores
 
 #
 
