@@ -11,7 +11,11 @@
 
 <h3>Status:</h3>
 
-![Mirella-Carmo GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirella-Carmo&show_icons=true&theme=tokyonight)
+![Mirella-Carmo GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirella-Carmo&show_icons=true&theme=dracula)
+<div>
+  <a href="https://github.com/Mirella-Carmo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirella-Carmo&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 <h3>Conhecimentos em:</h3>
 <div style="display: inline_block"><br>
